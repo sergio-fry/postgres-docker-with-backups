@@ -1,0 +1,4 @@
+db:
+  build: .
+  volumes:
+    - ./volumes/backups:/backups
